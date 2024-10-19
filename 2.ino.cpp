@@ -1,5 +1,3 @@
-```markdown
-```cpp
 int led1 = 12;
 int led2 = 13;
 void setup () {
@@ -11,4 +9,3 @@ delay(1000);
 digitalWrite(led2,LOW);
 delay(1000);
 }
-```
